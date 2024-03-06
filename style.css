@@ -1,0 +1,11 @@
+.cus-col {
+    background-color: bisque;
+    padding: 20px;
+    border: thin solid black;
+}
+
+.mybox{
+    background-color: brown !important;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
